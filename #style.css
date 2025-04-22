@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: greenyellow;
+    color: aliceblue;
+    padding: 15px;
+}
+
+li,h1,ul{
+    display: inline;
+}
+
+li{
+    color: grey;
+    cursor:progress;
+    
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width:397;
+}
